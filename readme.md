@@ -1,8 +1,6 @@
 # **Hello!** 
 
-I love making Games! \
-Currently learning VFX \
-SoftEng at [UVA-RJ](https://www.uva.br/)
+Software Engineer \
 
  ## **Main languages**
  <img width="124" height="88" alt="Screenshot 2025-09-29 at 22-10-09 C" src="https://github.com/user-attachments/assets/79ab4b10-a508-4766-9ebc-cec9853f4b65" />
